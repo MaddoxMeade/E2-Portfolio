@@ -128,6 +128,14 @@ footer{
     align-items: center;
     justify-content: space-evenly;
 }
+#fourth-chunk a{
+    font-family: 'inter';
+    color: #f2f2f2;
+}
+#help-me{
+    font-family:'Courier New', Courier, monospace;
+    color:crimson;
+}
 @media (max-width:1440px){
     header{
         height:8vh;
